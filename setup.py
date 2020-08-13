@@ -6,7 +6,7 @@ setup(
     description='Module for CSC510 - Fall20 by team Team 14',
     author='CSC510-Team14',
     author_email='cbandik@ncsu.edu',
-    url='',
+    url='https://github.com/SasiDharKM/CSC510-Team14',
     packages=['spatialtree'],
       long_description="""     TBD      """,
       classifiers=[
