@@ -18,5 +18,5 @@ setup(
       ],
       keywords='software-engineering engineering development-principles',
       license='mit',
-      install_requires=[],
+      install_requires=['pytest'],
       )
