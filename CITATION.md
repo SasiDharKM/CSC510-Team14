@@ -23,4 +23,4 @@ If you use `CSC510-Team4` in your work we would prefer it if you would use the f
 
 ## Textual
 
-Akash Srikanth, Ananya Nunna, Sasidhar Kumar, Chaitanya Bandikatla, & Venkata Santosh Pavan Pisapati. (2020, August 13). SasiDharKM/CSC510-Team14 v1.0.0 (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.3981637
+[Akash Srikanth, Ananya Nunna, Sasidhar Kumar, Chaitanya Bandikatla, & Venkata Santosh Pavan Pisapati. (2020, August 13). SasiDharKM/CSC510-Team14 v1.0.0 (Version v1.0.0). Zenodo.](http://doi.org/10.5281/zenodo.3981637)
