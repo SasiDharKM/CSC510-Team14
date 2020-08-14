@@ -1,1 +1,10 @@
 
+
+build/
+dist/
+code*/
+GameOfLife*/
+test/__pycache__/
+.DS_Store
+.idea/
+test/.DS_Store
