@@ -54,8 +54,7 @@ Enhancement suggestions are tracked as GitHub issues. After you've determined wh
     Provide a step-by-step description of the suggested enhancement in as many details as possible.
     Provide specific examples to demonstrate the steps. Include copy/pasteable snippets which you use in those examples, as Markdown code blocks.
     Describe the current behavior and explain which behavior you expected to see instead and why.
-    Include screenshots and animated GIFs which help you demonstrate the steps or point out the part of Atom which the suggestion is related to. You can use this tool to record GIFs on macOS and Windows, and this tool or this tool on Linux.
-    Explain why this enhancement would be useful/
+    Explain why this enhancement would be useful.
     List some other text editors or applications where this enhancement exists.
     Specify the name and version of the OS you're using.
 
