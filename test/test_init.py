@@ -1,9 +1,7 @@
-# content of __init__.py
-def inc(x):
-    return x + 1
+import code as cd
 
-def test_answer():
-    assert inc(3) == 5
+def test_answer_fail():
+    assert cd.inc(3) == 5
     
-def test_answer_passing():
-    assert inc(4) == 5
+def test_answer_pass():
+    assert cd.inc(4) == 5

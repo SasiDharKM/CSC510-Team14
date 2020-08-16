@@ -5,3 +5,6 @@ install:
 
 script:
   - pytest
+
+before_script:
+  - export PYTHONPATH=$PYTHONPATH:$(pwd)
