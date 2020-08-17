@@ -7,7 +7,7 @@ If you use `CSC510-Team4` in your work we would prefer it if you would use the f
 ```bibtex
 @software{akash_srikanth_2020_3981637,
   author       = {Akash Srikanth and
-                  Ananya Nunna and
+                  Nitya Sankarakumar and
                   Sasidhar Kumar and
                   Chaitanya Bandikatla and
                   Venkata Santosh Pavan Pisapati},
